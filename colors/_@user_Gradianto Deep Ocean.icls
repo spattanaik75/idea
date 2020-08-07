@@ -3,7 +3,7 @@
     <property name="created">2020-03-28T16:24:38</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-07-03T15:43:11</property>
+    <property name="modified">2020-08-07T16:09:12</property>
     <property name="originalScheme">Gradianto Deep Ocean</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="1a2136" />
     <option name="DOCUMENTATION_COLOR" value="26354d" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="9ccc65" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
@@ -24,7 +24,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_RENAMED" value="7e57c2" />
+    <option name="FILESTATUS_RENAMED" value="" />
     <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
