@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.7 (test) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Miniconda3/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3" />
+        <root url="file://D:/Projects/Personal/ReverseString/venv" />
+        <root url="file://D:/Projects/Personal/ReverseString/venv/Lib/site-packages" />
+        <root url="jar://D:/Projects/Personal/ReverseString/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://D:/Projects/Personal/ReverseString/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-437982128" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Miniconda3/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3" />
+        <root url="file://D:/Projects/Personal/ReverseString/venv" />
+        <root url="file://D:/Projects/Personal/ReverseString/venv/Lib/site-packages" />
+        <root url="jar://D:/Projects/Personal/ReverseString/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://D:/Projects/Personal/ReverseString/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-437982128" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
