@@ -33,5 +33,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.9 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
