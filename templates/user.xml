@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="cdoc" value="somthing for my classs" description="ClassDocumentation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
