@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="[Help" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
