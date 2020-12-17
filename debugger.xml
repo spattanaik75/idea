@@ -208,13 +208,8 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
-    <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
   </component>
 </application>
