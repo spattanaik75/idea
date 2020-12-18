@@ -6,6 +6,7 @@
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="[Help" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
