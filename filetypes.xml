@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="[Help" type="PLAIN_TEXT" />
+      <mapping ext="xql" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
