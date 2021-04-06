@@ -1132,12 +1132,76 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.xpl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.xpm">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xq">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xqm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xqu">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xquery">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xqws">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xqy">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
             </plugin>
           </value>
         </entry>
@@ -1210,6 +1274,22 @@
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*_ErrorLog.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*_ErrorLog_*.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
             </plugin>
           </value>
         </entry>
@@ -1286,6 +1366,22 @@
             <plugin>
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="ErrorLog.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="ErrorLog_*.txt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="uk.co.reecedunn.intellij.plugin.xquery" />
+              <option name="myPluginName" value="XQuery IntelliJ Plugin" />
             </plugin>
           </value>
         </entry>
