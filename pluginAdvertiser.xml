@@ -1581,6 +1581,41 @@
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
                     </value>
                   </entry>
+                  <entry key="XIJPMLJavaScriptProcessorConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Server-side JavaScript" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
+                  <entry key="XIJPSPARQLProcessorConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="SPARQL" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
+                  <entry key="XIJPSQLProcessorConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="SQL" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
+                  <entry key="XIJPXPathProcessorConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="XPath" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
+                  <entry key="XIJPXQueryProcessorConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="XQuery" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
+                  <entry key="XIJPXRayTestConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="XRay Tests" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
+                  <entry key="XIJPXSLTProcessorConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XQuery IntelliJ Plugin" pluginId="uk.co.reecedunn.intellij.plugin.xquery" />
+                    </value>
+                  </entry>
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
