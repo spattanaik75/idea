@@ -1,60 +1,10 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (flask) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/envs/flask/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/flask/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/flask/Lib/site-packages" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/python_stubs/567810123" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/envs/flask/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/flask/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/flask/Lib/site-packages" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.3/python_stubs/567810123" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (ipextract) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/envs/ipextract/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/ipextract/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/ipextract/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/1872461966" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/envs/ipextract/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/ipextract/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/ipextract/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/1872461966" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.7 (test) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/Lib" />
-        <root url="file://$USER_HOME$/miniconda3" />
+        <root url="file://$USER_HOME$/Miniconda3/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3" />
         <root url="file://D:/Projects/Personal/ReverseString/venv" />
         <root url="file://D:/Projects/Personal/ReverseString/venv/Lib/site-packages" />
         <root url="jar://D:/Projects/Personal/ReverseString/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
@@ -68,9 +18,9 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/Lib" />
-        <root url="file://$USER_HOME$/miniconda3" />
+        <root url="file://$USER_HOME$/Miniconda3/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3" />
         <root url="file://D:/Projects/Personal/ReverseString/venv" />
         <root url="file://D:/Projects/Personal/ReverseString/venv/Lib/site-packages" />
         <root url="jar://D:/Projects/Personal/ReverseString/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
@@ -83,13 +33,17 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 (untitled) interpreter library">
+    <library name="Python 3.8 (base) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/envs/untitled/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/untitled/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/untitled/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-1826912399" />
+        <root url="file://$USER_HOME$/Miniconda3/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages/win32" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages/win32/lib" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/-954294925" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
@@ -97,44 +51,15 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/envs/untitled/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/untitled/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/untitled/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/-1826912399" />
+        <root url="file://$USER_HOME$/Miniconda3/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages/win32" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages/win32/lib" />
+        <root url="file://$USER_HOME$/Miniconda3/Lib/site-packages/pythonwin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/-954294925" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.7 (venv) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/Lib" />
-        <root url="file://$USER_HOME$/miniconda3" />
-        <root url="file://$USER_HOME$/venv" />
-        <root url="file://$USER_HOME$/venv/Lib/site-packages" />
-        <root url="jar://$USER_HOME$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/1201859723" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/Lib" />
-        <root url="file://$USER_HOME$/miniconda3" />
-        <root url="file://$USER_HOME$/venv" />
-        <root url="file://$USER_HOME$/venv/Lib/site-packages" />
-        <root url="jar://$USER_HOME$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2019.3/system/python_stubs/1201859723" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
@@ -143,9 +68,9 @@
     </library>
     <library name="Python 3.8 (trydjango) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/envs/trydjango/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/trydjango/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/trydjango/Lib/site-packages" />
+        <root url="file://$USER_HOME$/Miniconda3/envs/trydjango/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/envs/trydjango/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3/envs/trydjango/Lib/site-packages" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/476698632" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
@@ -156,9 +81,9 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/envs/trydjango/DLLs" />
-        <root url="file://$USER_HOME$/miniconda3/envs/trydjango/Lib" />
-        <root url="file://$USER_HOME$/miniconda3/envs/trydjango/Lib/site-packages" />
+        <root url="file://$USER_HOME$/Miniconda3/envs/trydjango/DLLs" />
+        <root url="file://$USER_HOME$/Miniconda3/envs/trydjango/Lib" />
+        <root url="file://$USER_HOME$/Miniconda3/envs/trydjango/Lib/site-packages" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IdeaIC2020.2/python_stubs/476698632" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.7" />
