@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmOpenNewProject2" value="0" />
     <option name="defaultProjectDirectory" value="C:\workspace" />
     <option name="showTipsOnStartup" value="false" />
   </component>
