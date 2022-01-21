@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.fpml.org/FpML-5/confirmation" />
+    <ignored-resource url="http://www.w3.org/2000/09/xmldsig#" />
+  </component>
+</application>
