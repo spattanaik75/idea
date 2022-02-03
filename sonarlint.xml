@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <rules>
       <Rule active="false" key="python:S1871" />
+      <Rule active="false" key="java:S1192" />
       <Rule active="false" key="java:S125" />
       <Rule active="false" key="java:S1220" />
       <Rule active="false" key="java:S115" />
