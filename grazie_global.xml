@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="PARTIALLY - PENDING" />
+            <option value="from config" />
           </set>
         </option>
       </SuppressingContext>
