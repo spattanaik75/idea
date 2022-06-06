@@ -125,6 +125,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.haulmont.jpab">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.completion.ml.ranking">
           <value>
             <PluginData>
@@ -233,6 +246,19 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="ru.meanmail.plugin.requirements-pro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
