@@ -51,7 +51,6 @@
                   <option value="com.intellij.modules.python-core-capable" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
