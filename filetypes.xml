@@ -5,7 +5,6 @@
       <mapping pattern="mvnw" type="PLAIN_TEXT" />
       <mapping pattern="[Help" type="PLAIN_TEXT" />
       <mapping ext="drl" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
